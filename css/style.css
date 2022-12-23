@@ -41,7 +41,7 @@ html {
   right: 10px;
   z-index: 99;
   padding: 20px;
-  background: url(/up1.svg) no-repeat;
+  background: url(../img/up1.svg) no-repeat;
 }
 
 /* *===== Header =====* */
@@ -98,7 +98,7 @@ html {
 .welcome {
   padding-top: 80px;
   height: 100vh;
-  background: url(img/bg-min.png);
+  background: url(../img/bg-min.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
