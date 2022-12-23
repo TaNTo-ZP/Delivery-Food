@@ -41,7 +41,7 @@ html {
   right: 10px;
   z-index: 99;
   padding: 20px;
-  background: url(img/up1.svg) no-repeat;
+  background: url(../img/up1.svg) no-repeat;
 }
 
 /* *===== Header =====* */
