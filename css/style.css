@@ -400,7 +400,7 @@ h1 {
 /* *===== Download =====* */
 
 .download {
-  background: url(img/bg-min.png) no-repeat;
+  background: url(../img/bg-min.png) no-repeat;
   background-position: center center;
   background-size: cover;
 }
